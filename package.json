@@ -1,0 +1,27 @@
+{
+  "name": "filipe-deschamps",
+  "version": "1.0.0",
+  "description": "Video aula: https://www.youtube.com/watch?v=EW7m2WIvFgQ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marciosouzaduarte/filipe-deschamps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marciosouzaduarte/filipe-deschamps/issues"
+  },
+  "homepage": "https://github.com/marciosouzaduarte/filipe-deschamps#readme",
+  "dependencies": {
+    "next": "^11.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "sass": "^1.35.2"
+  }
+}
